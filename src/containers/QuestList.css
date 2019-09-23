@@ -1,0 +1,15 @@
+.quest-list-box {
+    border: 1px solid #000000;
+    width: 600px;
+}
+
+.quest-list-box ul {
+    display: block;
+    list-style-type: decimal;
+    margin: 0; 
+    padding: 0;
+}
+
+.quest-list-box li {
+    list-style: none;
+}

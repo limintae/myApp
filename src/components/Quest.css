@@ -1,0 +1,41 @@
+.quest-contents {
+    width: inherit;
+    position: relative;
+    display: flex;
+    padding: 1px;
+}
+
+.quest-contents:hover {
+    background: #d6d8df;
+}
+
+.quest-item {
+    margin: '0rem 0';
+}
+
+.quest-thumb {
+    width: 200px;
+    position: relative;
+}
+
+.img-quest {
+    width: 150px;
+}
+
+.quest-dec {
+    width: 100%;
+    position: relative;   
+}
+
+.quest-dec2 {
+}
+
+.tmpSpan {
+    color: #000000;
+}
+
+.quest-name {
+    font-weight: bold;
+    font-size: 1.3rem;
+    color: #000000;
+}

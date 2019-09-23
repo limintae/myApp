@@ -1,0 +1,9 @@
+.quest-type-list-box ul {
+    list-style-type: decimal;
+    margin: 0; 
+    padding: 0;
+}
+
+.quest-type-list-box li {
+    list-style: none;
+}

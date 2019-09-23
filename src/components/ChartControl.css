@@ -1,0 +1,32 @@
+.control-container {
+    width: 100%;
+    display: inline;
+}
+
+.control-container .turn-control-area {
+    width: 370px; 
+    margin-left: 50px;
+}
+
+.control-container .turn-control-area .btn-control {
+    width: 110px;
+    float: left;
+}
+
+.control-container .turn-control-area .center-value {
+    width: 150px;
+    float: left;
+    text-align: center; 
+    margin-top: 8px;
+}
+
+.control-container .btn-load-area {
+    float: right; 
+    margin-right: 30px;
+}
+
+.control-container .btn-save-area {
+    width: 180px;
+    float: right;
+    margin-left: 20px;
+}
