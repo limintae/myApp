@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@material-ui/core": "^3.9.3",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "highcharts-drilldown": "^0.1.7",
     "immutable": "^4.0.0-rc.12",
     "prop-types": "^15.7.2",
